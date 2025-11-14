@@ -2,7 +2,7 @@
 
 **I am currently open to new full-time and contract opportunities.**
 
-**<siddheshnaik20@protonmail.com>**
+**<hatakekakashri@proton.me>**
 
 <img src="https://komarev.com/ghpvc/?username=hatakekakashri&style=flat-square&color=blue" alt="profile-views"/>
 
