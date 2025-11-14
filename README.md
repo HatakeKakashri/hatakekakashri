@@ -1,15 +1,13 @@
-# Hi there, I'm Siddhesh Naik 👋
-
 ### I'm a passionate developer with 8+ years of experience in Android, Web, and Embedded systems. I love solving real-world problems and building scalable, high-impact solutions.
 
 **I am currently open to new full-time and contract opportunities.**
 
 **<siddheshnaik20@protonmail.com>**
 
-<img src="https://komarev.com/ghpvc/?username=snaik20&style=flat-square&color=blue" alt="profile-views"/>
+<img src="https://komarev.com/ghpvc/?username=hatakekakashri&style=flat-square&color=blue" alt="profile-views"/>
 
 <div id="header" align="center">
-  <img src="https://github.com/snaik20/snaik20/assets/87667048/64afdcea-7e0f-4d57-89da-55112a41e515" width="480"/>
+  <img src="https://github.com/hatakekakashri/hatakekakashri/assets/87667048/64afdcea-7e0f-4d57-89da-55112a41e515" width="480"/>
 </div>
 
 
@@ -17,8 +15,8 @@
 
 ### 🔥 My Stats
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=snaik20&theme=gotham&mode=weekly&card_width=600)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=snaik20&show_icons=true&hide_title=true&theme=gotham&show=reviews,prs_merged,prs_merged_percentage)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hatakekakashri&theme=gotham&mode=weekly&card_width=600)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hatakekakashri&show_icons=true&hide_title=true&theme=gotham&show=reviews,prs_merged,prs_merged_percentage)
 
 ---
 
