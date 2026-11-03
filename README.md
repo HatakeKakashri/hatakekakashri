@@ -2,7 +2,7 @@
 
 **I am currently open to new full-time and contract opportunities.**
 
-**<shubham.naik40@gmail.com>**
+**<shubham.naik40@gmail.com>** | **<https://shbhmnk.is-a.dev>**
 
 <img src="https://komarev.com/ghpvc/?username=hatakekakashri&style=flat-square&color=blue" alt="profile-views"/>
 
