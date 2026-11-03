@@ -1,83 +1,89 @@
-### I'm a passionate developer with 8+ years of experience in Android, Web, and Embedded systems. I love solving real-world problems and building scalable, high-impact solutions.
+<div align="center">
 
-**I am currently open to new full-time and contract opportunities.**
+# Senior Software Engineer
 
-**<shubham.naik40@gmail.com>** | **<https://shbhmnk.is-a.dev>**
+**Android &nbsp;·&nbsp; Web &nbsp;·&nbsp; Rust**
 
-<img src="https://komarev.com/ghpvc/?username=hatakekakashri&style=flat-square&color=blue" alt="profile-views"/>
 
 <div id="header" align="center">
   <img src="https://github.com/hatakekakashri/hatakekakashri/assets/87667048/64afdcea-7e0f-4d57-89da-55112a41e515" width="480"/>
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=HatakeKakashri&label=Profile%20views&color=1f6feb&style=flat" alt="Profile views" />
+
+<br />
+
+<a href="https://shbhmnk.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-shbhmnk.is--a.dev-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/shbhmnk"><img src="https://img.shields.io/badge/LinkedIn-shbhmnk-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:shubham.naik40@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+</div>
 
 ---
 
-### 🔥 My Stats
+I have 10+ years of experience building software across three areas: native Android apps at 1B+ to 10B+ Google Play download scale, full-stack web with Next.js and TypeScript, and Rust microservices on Linux. Based in Pune, India, and **open to new full-time and contract opportunities**, including remote roles in India.
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hatakekakashri&theme=gotham&mode=weekly&card_width=600)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hatakekakashri&show_icons=true&hide_title=true&theme=gotham&show=reviews,prs_merged,prs_merged_percentage)
+## What I work on
 
----
+**Android.** Native Kotlin and Java on large consumer apps: messaging, profiles and job postings, plus feature migrations between apps. I work with Jetpack Compose, Kotlin Coroutines and Flow, and MVVM, MVP and MVI architectures. I once traced a main-thread lock contention behind a legacy app's ANR reports and fixed it.
 
-### 🛠️ Languages and Tools
+**Web.** Next.js with the App Router, Server Components and Server Actions, backed by PostgreSQL (query optimization and migrations), in TypeScript and React.
 
-#### Android
-<div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/realm/realm-original.svg" title="Realm" alt="Realm" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" title="Gradle" alt="Gradle" width="40" height="40"/>&nbsp;
+**Systems.** Rust microservices running as Linux services, built on Tokio, with multithreading and network programming. I also work on embedded integration (Embedded C++, CMake) and Docker dev-container builds that give reproducible CI.
+
+## Open source
+
+**NewPipe (Android):** Contributed to the app's modernization, primarily through its migration to Jetpack Compose, including foundational integration and UI screen migrations. Also contributed feature enhancements, Android platform updates, and bug fixes across the application.
+
+**FlorisBoard (Android, Kotlin):** Implemented emoji suggestions, integrating a dedicated EmojiSuggestionProvider with the NLP pipeline and suggestion-candidate infrastructure.
+
+## Languages and tools
+
+<h4>Android</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,gradle,sqlite" alt="Android skills" />
+  <img src="https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=realm&logoColor=white" alt="Realm" />
+</p>
+
+<h4>Web</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,postgres,yarn,eslint" alt="Web skills" />
+</p>
+
+<h4>Systems and embedded</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=rust,cpp,cmake,docker,linux,arch" alt="Systems skills" />
+</p>
+
+<h4>Python</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=py,django,flask" alt="Python skills" />
+  <img src="https://img.shields.io/badge/Poetry-60A5FA?style=flat-square&logo=poetry&logoColor=white" alt="Poetry" />
+  <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="PyTest" />
+</p>
+
+<h4>Others</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,graphql,swift" alt="Other skills" />
+</p>
+
+<h4>Tools</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,bash,vim,vscode,xcode,jira,slack" alt="Tools" />
+</p>
+
+## GitHub stats
+
+<div align="center">
+
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=HatakeKakashri&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=HatakeKakashri&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com/?user=HatakeKakashri&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
 </div>
 
-#### Web
-<div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React.js" alt="React.js" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" title="Yarn" alt="Yarn" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" title="ESLint" alt="ESLint" width="40" height="40"/>&nbsp;
-</div>
 
-#### Embedded
-<div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="CPlusPlus" alt="CPlusPlus" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" title="CMake" alt="CMake" width="40" height="40"/>&nbsp;
-</div>
-
-#### Python
-<div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/poetry/poetry-original.svg" title="Poetry" alt="Poetry" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" title="PyTest" alt="PyTest" width="40" height="40"/>&nbsp;
-</div>
-
-#### Others
-<div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
-</div>
-
-#### Tools
-<div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" title="SSH" alt="SSH" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" title="ArchLinux" alt="I use Arch, btw" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" title="XCode" alt="XCode" width="40" height="40"/>&nbsp;
-</div>
 
